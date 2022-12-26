@@ -1,0 +1,11 @@
+.mainCard { 
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    width: auto;
+    height: auto;
+   
+}
+
